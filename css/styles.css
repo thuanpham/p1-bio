@@ -1,0 +1,34 @@
+/* Your Website Styles */
+h1{
+	text-shadow: 5px 5px 5px pink;
+	color: yellow;
+
+}
+h2{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	text-shadow: 5px 5px 5px red;
+	color: gold;
+
+
+}
+img{
+	float: left;
+	clear: left;
+}
+a{
+	color:gold;
+	text-decoration: none;
+}
+li{
+	list-style: none;
+	display: inline;
+}
+body{
+	background:#FAF3BC;
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
